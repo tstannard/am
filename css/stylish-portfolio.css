@@ -205,9 +205,13 @@ hr.small {
 .img-portfolio {
     margin: 0 auto;
     background: url('img/isreal.jpg') bottom;
+    width: 100px;
+    height: 100px;
 }
 .img-one:hover{
-     background-position: 0 0;
+    width:100px;
+    height: 100px;
+    background-position: 0 0;
 }
 
 .img-portfolio:hover {
