@@ -208,6 +208,7 @@ hr.small {
 
 .img-portfolio:hover {
     opacity: 0.8;
+    content: url('img/isreal.jpg');
 }
 
 /* Call to Action */
