@@ -206,12 +206,9 @@ hr.small {
     margin: 0 auto;
 }
 #teal {
-    height: 70px;
-    width: 120px;
 }
 #teal:hover {
     content: url('img/isreal.jpg');
-    height: 70px;
 }
 
 .img-portfolio:hover {
