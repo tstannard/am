@@ -205,10 +205,17 @@ hr.small {
 .img-portfolio {
     margin: 0 auto;
 }
+#teal {
+    height: 70px;
+    width: 120px;
+}
+#teal:hover {
+    content: url('img/isreal.jpg');
+    height: 70px;
+}
 
 .img-portfolio:hover {
     opacity: 0.8;
-    content: url('img/isreal.jpg');
 }
 
 /* Call to Action */
