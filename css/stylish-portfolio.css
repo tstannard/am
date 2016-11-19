@@ -205,8 +205,7 @@ hr.small {
 .img-portfolio {
     margin: 0 auto;
 }
-#teal {
-}
+
 #teal:hover {
     content: url('img/isreal.jpg');
 }
