@@ -208,7 +208,7 @@ hr.small {
 }
 
 #teal:hover {
-    content: url(img/aftr.jpg);
+    content: url(../img/aftr.jpg);
 }
 
 .img-portfolio:hover {
